@@ -1,0 +1,1 @@
+En este proyecto estamos aprendiendo a la elimización de archivos en ramas y a la creación de un readme pero realmente queremos aprender a publicar nuestros proyectos a partir de la url de github pages.
